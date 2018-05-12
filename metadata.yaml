@@ -13,6 +13,8 @@ creator:
     - http://www.gutenberg.org/browse/authors/u#a49
     - http://en.wikipedia.org/wiki/Anonymity
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42087#Third-Annual-Report-of-the-Kensington-Parochial-Institute
 gutenberg_issued: '2013-02-13'
 gutenberg_type: Text
 identifiers:
